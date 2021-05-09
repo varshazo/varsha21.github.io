@@ -11,7 +11,7 @@ color: #556B2F;
 }
 body{
 	background-color: #556B2F;
-	color: white;
+	color: black;
 }
 .glyphicon{
 	font-size: 30px;
@@ -25,7 +25,7 @@ body{
 }
 .container
 {
-	background-color: white;
+	background-color: black;
 }
 .text-center{
 	font-size: 30px;
