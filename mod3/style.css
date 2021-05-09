@@ -25,7 +25,7 @@ body{
 }
 .container
 {
-	background-color: grey;
+	background-color: white;
 }
 .text-center{
 	font-size: 30px;
@@ -35,7 +35,7 @@ h2{
 	text-align: center;
 }
 #myNavbar ul li a {
-	color: #61122F;
+	color: #556B2F;
 }
 .navbar-brand{
 font-size: 30px;	
