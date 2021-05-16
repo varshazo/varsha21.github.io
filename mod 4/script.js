@@ -11,7 +11,7 @@ names[8]="Laura";
 names[9]="Jim";
 for(var i=0;i<names.length;i++)
 {
-  if(names[i].chartAt(0)==='j'||names[i].chartAt(0)==='J')
+  if(names[i].charAt(0)==='j'||names[i].charAt(0)==='J')
   {
     console.log("Goodbye "+names[i])
   }
